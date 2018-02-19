@@ -5,7 +5,7 @@ import Data from "../Data/product.json";
 import Product from "./Product.js";
 import Header from "./Header.js";
 
-class App extends Component {
+class Products extends Component {
   constructor() {
     super();
     this.state = {
@@ -95,4 +95,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default Products;
