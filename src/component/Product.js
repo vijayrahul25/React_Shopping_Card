@@ -39,8 +39,7 @@ class Product extends Component {
           <span className="pull-right">SKU:1000{this.props.id}</span>
           <div className="detail">
             <p>
-              Glyphicons in Bootstrap : Bootstrap Includes over 250 glyphs in
-              font format{" "}
+              {this.props.description}
             </p>
             <a
               href="#"

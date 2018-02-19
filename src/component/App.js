@@ -24,20 +24,22 @@ class App extends Component {
   handleAddToCart(Product) {
     let cartItem = this.state.cart;
     let productID = Product.id;
-    let productQty = Product.quantity;
+    let productQty = 1;
     if (this.checkProduct(productID)) {
       let index = cartItem.findIndex(x => x.id == productID);
       cartItem[index].quantity =
-        Number(cartItem[index].quantity) + Number(productQty);
+        Number(cartItem[index].quantity) + 1;
       this.setState({
         cart: cartItem
       });
     } else {
+      Product['quantity'] = 1;
       cartItem.push(Product);
     }
     this.setState({
       cart: cartItem
     });
+    console.log(cartItem);
 
     this.handleTotalItems(this.state.cart);
     this.handleTotalAmount(this.state.cart);

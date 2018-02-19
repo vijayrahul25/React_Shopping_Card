@@ -4,63 +4,72 @@
     "name": "Product 1",
     "price": 120,
     "image": "https://previews.123rf.com/images/grafner/grafner1411/grafner141100102/34014065-placeholder-for-unavailable-photo.jpg",
-    "category": "category 1"
+    "category": "category 1",
+    "description": "this is a test description for my test shopping cart"
   },
   {
     "id": 2,
     "name": "Product 2",
     "price": 120,
     "image": "https://previews.123rf.com/images/grafner/grafner1411/grafner141100102/34014065-placeholder-for-unavailable-photo.jpg",
-    "category": "category 1"
+    "category": "category 1",
+    "description": "this is a test description for my test shopping cart"
   },
   {
     "id": 3,
     "name": "Product 3",
     "price": 120,
     "image": "https://previews.123rf.com/images/grafner/grafner1411/grafner141100102/34014065-placeholder-for-unavailable-photo.jpg",
-    "category": "category 2"
+    "category": "category 2",
+    "description": "this is a test description for my test shopping cart"
   },
   {
     "id": 4,
     "name": "Product 4",
     "price": 120,
     "image": "https://previews.123rf.com/images/grafner/grafner1411/grafner141100102/34014065-placeholder-for-unavailable-photo.jpg",
-    "category": "category 2"
+    "category": "category 2",
+    "description": "this is a test description for my test shopping cart"
   },
   {
     "id": 5,
     "name": "Product 5",
     "price": 120,
     "image": "https://previews.123rf.com/images/grafner/grafner1411/grafner141100102/34014065-placeholder-for-unavailable-photo.jpg",
-    "category": "category 2"
+    "category": "category 2",
+    "description": "this is a test description for my test shopping cart"
   },
   {
     "id": 6,
     "name": "Product 6",
     "price": 120,
     "image": "https://previews.123rf.com/images/grafner/grafner1411/grafner141100102/34014065-placeholder-for-unavailable-photo.jpg",
-    "category": "category 2"
+    "category": "category 2",
+    "description": "this is a test description for my test shopping cart"
   },
   {
     "id": 7,
     "name": "Product 7",
     "price": 120,
     "image": "https://previews.123rf.com/images/grafner/grafner1411/grafner141100102/34014065-placeholder-for-unavailable-photo.jpg",
-    "category": "category 3"
+    "category": "category 3",
+    "description": "this is a test description for my test shopping cart"
   },
   {
     "id": 8,
     "name": "Product 8",
     "price": 120,
     "image": "https://previews.123rf.com/images/grafner/grafner1411/grafner141100102/34014065-placeholder-for-unavailable-photo.jpg",
-    "category": "category 3"
+    "category": "category 3",
+    "description": "this is a test description for my test shopping cart"
   },
   {
     "id": 9,
     "name": "Product 9",
     "price": 120,
     "image": "https://previews.123rf.com/images/grafner/grafner1411/grafner141100102/34014065-placeholder-for-unavailable-photo.jpg",
-    "category": "category 3"
+    "category": "category 3",
+    "description": "this is a test description for my test shopping cart"
   },
   {
     "id": 10,
