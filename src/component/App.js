@@ -77,7 +77,7 @@ class Products extends Component {
   render() {
     return (
       <div className="container">
-        <Header totalItems={this.state.totalItems} />
+        <Header totalItems={this.state.totalItems} cartItems={this.state.cart} />
 
         <div class="row">
           {this.state.products.map(item => {
